@@ -21,9 +21,7 @@
   },
   "docker": {
     "v1Enabled": false,
-    "forceBasicAuth": false,
-    "//httpPort": 8082,
-    "//httpsPort": 8083
+    "forceBasicAuth": false
   },
   "negativeCache": {
     "enabled": false,
